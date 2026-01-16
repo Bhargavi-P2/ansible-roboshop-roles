@@ -1,0 +1,5 @@
+CART_HOST: cart.bhargavi.xyz
+USER_HOST: user.bhargavi.xyz
+RABBITMQ_HOST: rabbitmq.bhargavi.xyz
+RABBITMQ_USER: roboshop
+RABBITMQ_PASSWORD: roboshop123
